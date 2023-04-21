@@ -1,0 +1,59 @@
+@font-face { font-family: lato;src: url(font/Lato-Regular.ttf);}
+*{font-family: lato;}
+body{
+    overflow-x: hidden;
+    max-width: 100%;
+}
+.quick-icon-div
+{
+    min-width: 70px;
+}
+.contact-icon
+{
+    min-width: 100px;
+}
+.dark-icon
+{
+    min-width: 35px;
+}
+.logo
+{
+    min-width: 180px;
+}
+.hamburger
+{
+    width: 50px;
+}
+
+.slide1 .carousel-item
+{
+    min-height: 300px;
+    background-position: center;
+    background-size: cover;
+} 
+.heading4
+{
+    line-height: 30px;
+}
+.drop{
+    background-color: white;
+}
+.drop a
+{
+    text-decoration: none;
+    line-height: 40px;
+    color: black;
+}
+.drop h5
+{
+    color: #0195db;
+}
+.offcanvas button,.offcanvas .accordion-body,.offcanvas .accordion-body .list-group-item
+{
+    background-color: #424651;
+    color: white;
+}
+#btn1
+{
+    background-color: white;
+}
